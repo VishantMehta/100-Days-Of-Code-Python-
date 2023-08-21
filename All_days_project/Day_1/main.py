@@ -12,3 +12,4 @@ print("Your Band name could be " + city + " "+ pet)
 
 # Solution: https://replit.com/@appbrewery/band-name-generator-end
 
+#Solved Myself
